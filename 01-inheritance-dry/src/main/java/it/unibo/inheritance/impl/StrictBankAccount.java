@@ -70,3 +70,5 @@ public class StrictBankAccount implements BankAccount {
         return balance >= amount;
     }
 }
+
+
